@@ -1,0 +1,42 @@
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.exe
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.deps.json
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.json
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.dev.json
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfo.cs
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Casper\source\repos\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.genruntimeconfig.cache
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.exe
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.deps.json
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.json
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.dev.json
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.AssemblyReference.cache
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfoInputs.cache
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfo.cs
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Casper\OneDrive\Belgeler\Downloads\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.deps.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\bin\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.dll
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\Siliconmade Academy\projeler\HOCANIN YUKLEDIGI PROJELER\OTOGALERI UYGULAMASI\OtoGaleriUygulaması\OtoGaleriUygulaması\obj\Debug\netcoreapp3.1\OtoGaleriUygulaması.genruntimeconfig.cache
